@@ -3,7 +3,9 @@
 First Team Assignment in Data Science class (2023 Spring).
 
 📁 lab#2 
+
 💾 data/bmi_data_lab2.csv
+
 • data missing value manipulation
   - using ..
     * mean
@@ -21,5 +23,5 @@ First Team Assignment in Data Science class (2023 Spring).
 
 📁 phw#1
 💾 data/bmi_data_phw1.xlsx
-• showing histograms
-• find outliers 
+  • showing histograms
+  • find outliers 
